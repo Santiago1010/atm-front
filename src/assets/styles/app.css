@@ -1,0 +1,22 @@
+* {
+	font-family: 'Nunito', sans-serif !important;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+p {
+	font-size: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Work Sans', sans-serif !important;
+	font-weight: bold;
+}
